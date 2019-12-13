@@ -20,7 +20,7 @@
     },
     "ja": {
       "contact": {
-        "contact_0": "下記の手段から連絡をお願いいたします。",
+        "contact_0": "下記の方法で連絡できます：",
         "contributor": "制作協力者ページ",
         "github": "Github Issues",
         "nga": "NGAスレッド"
